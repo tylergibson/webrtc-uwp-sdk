@@ -15,7 +15,7 @@ url=https://github.com/tylergibson/webrtc-uwp-scripts.git
 url=https://github.com/tylergibson/webrtc.git
 [submodule "webrtc/xplatform/chromium-pruned"]
 	path = webrtc/xplatform/chromium-pruned
-	url = https://github.com/webrtc-uwp/chromium-pruned.git
+url=https://github.com/tylergibson/chromium-pruned.git
 [submodule "webrtc/xplatform/opus"]
 	path = webrtc/xplatform/opus
 	url = https://github.com/webrtc-uwp/opus.git
@@ -93,7 +93,7 @@ url=https://github.com/tylergibson/webrtc-windows.git
 	url = https://github.com/webrtc-uwp/ChatterBox.git
 [submodule "webrtc/xplatform/winsdk_samples_v71"]
 	path = webrtc/xplatform/winsdk_samples_v71
-	url = https://chromium.googlesource.com/external/webrtc/deps/third_party/winsdk_samples_v71
+url=https://github.com/tylergibson/winsdk_samples_v71.git
 [submodule "ortc/xplatform/zsLib-eventing"]
 	path = ortc/xplatform/zsLib-eventing
 	url = https://github.com/ortclib/zsLib-eventing.git
